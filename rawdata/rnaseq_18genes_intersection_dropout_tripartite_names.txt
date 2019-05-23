@@ -1,0 +1,19 @@
+Locus Identifier	Gene Model Name	Gene Model Description	Gene Model Type	Primary Gene Symbol	All Gene Symbols
+AT4G26010	AT4G26010.1	Peroxidase superfamily protein;(source:Araport11)	protein_coding			
+AT4G08400	AT4G08400.1	Proline-rich extensin-like family protein;(source:Araport11)	protein_coding			
+AT5G06630	AT5G06630.1	proline-rich extensin-like family protein;(source:Araport11)	protein_coding			
+AT4G08410	AT4G08410.1	Proline-rich extensin-like family protein;(source:Araport11)	protein_coding			
+AT5G57625	AT5G57625.1	CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein;(source:Araport11)	protein_coding	 (ATCAPE5)	 (ATCAPE5)	
+AT4G37390	AT4G37390.1	Encodes an IAA-amido synthase that conjugates Asp and other amino acids to auxin in vitro. Lines carrying insertions in this gene are hypersensitive to auxin. May function as a negative component in auxin signaling by regulating auxin activity.	protein_coding	 (BRU6)	YADOKARI 1 (YDK1); (GH3.2); (BRU6); (GH3-2);AUXIN UPREGULATED 3 (AUR3)	
+AT4G40090	AT4G40090.1	arabinogalactan protein 3;(source:Araport11)	protein_coding	ARABINOGALACTAN PROTEIN 3 (AGP3)	ARABINOGALACTAN PROTEIN 3 (AGP3)	
+AT5G06640	AT5G06640.1	Proline-rich extensin-like family protein;(source:Araport11)	protein_coding	EXTENSIN 10 (EXT10)	EXTENSIN 10 (EXT10)	
+AT4G13390	AT4G13390.1	Proline-rich extensin-like family protein;(source:Araport11)	protein_coding	EXTENSIN 12 (EXT12)	EXTENSIN 12 (EXT12)	
+AT5G35190	AT5G35190.1	proline-rich extensin-like family protein;(source:Araport11)	protein_coding	EXTENSIN 13 (EXT13)	EXTENSIN 13 (EXT13)	
+AT2G24980	AT2G24980.1	Proline-rich extensin-like family protein;(source:Araport11)	protein_coding	EXTENSIN 6 (EXT6)	EXTENSIN 6 (EXT6)	
+AT3G54590	AT3G54590.1	Encodes a hydroxyproline-rich glycoprotein. The mRNA is cell-to-cell mobile.	protein_coding	HYDROXYPROLINE-RICH GLYCOPROTEIN (HRGP1)	HYDROXYPROLINE-RICH GLYCOPROTEIN (HRGP1);HYDROXYPROLINE-RICH GLYCOPROTEIN (ATHRGP1)	
+AT1G54970	AT1G54970.1	encodes a proline-rich protein that is specifically expressed in the root. The mRNA is cell-to-cell mobile.	protein_coding	PROLINE-RICH PROTEIN 1 (PRP1)	PROLINE-RICH PROTEIN 1 (ATPRP1);PROLINE-RICH PROTEIN 1 (PRP1);ROOT HAIR SPECIFIC 7 (RHS7)	
+AT3G62680	AT3G62680.1	Proline-rich protein The mRNA is cell-to-cell mobile.	protein_coding	PROLINE-RICH PROTEIN 3 (PRP3)	ARABIDOPSIS THALIANA PROLINE-RICH PROTEIN 3 (ATPRP3);PROLINE-RICH PROTEIN 3 (PRP3)	
+AT4G02270	AT4G02270.1	root hair specific 13;(source:Araport11)	protein_coding	ROOT HAIR SPECIFIC 13 (RHS13)	SEED AND ROOT HAIR PROTECTIVE PROTEIN (SRPP);ROOT HAIR SPECIFIC 13 (RHS13)	
+AT4G25820	AT4G25820.1	Encodes a xyloglucan endotransglycosylase with a clear preference for non-fucosylated xyloglucan polymer. The mRNA is cell-to-cell mobile.	protein_coding	XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE 14 (XTH14)	XYLOGLUCAN ENDOTRANSGLYCOSYLASE 9 (XTR9); (ATXTH14);XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE 14 (XTH14)	
+AT4G28850	AT4G28850.1	xyloglucan endotransglucosylase/hydrolase 26;(source:Araport11)	protein_coding	XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE 26 (XTH26)	XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE 26 (XTH26); (ATXTH26)	
+AT2G32270	AT2G32270.1	A member of Zrt- and Irt-related protein (ZIP) family.  transcript is induced in response to zinc deficiency in the root. also response to iron deficiency.	protein_coding	ZINC TRANSPORTER 3 PRECURSOR (ZIP3)	ZINC TRANSPORTER 3 PRECURSOR (ZIP3)	

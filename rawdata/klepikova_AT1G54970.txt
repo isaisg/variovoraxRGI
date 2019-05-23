@@ -1,0 +1,70 @@
+Group #	Tissue	Expression Level	Standard Deviation	Samples	Links
+1	Silique 8	0.0	0.0	SRR3581717,SRR3581883,	To the Experiment
+1	Stigmatic tissue	0.0	0.0	SRR3581728,SRR3581890,	To the Experiment
+1	Pod of the senescent silique 1	0.06	0.0	SRR3581736,SRR3581897,	To the Experiment
+1	Anthers of the young flower	0.06	0.06	SRR3581691,SRR3581857,	To the Experiment
+1	Dry Seeds	0.09	0.07	SRR3581731,SRR3581892,	To the Experiment
+1	Silique 2	0.0	0.0	SRR3581708,SRR3581874,	To the Experiment
+1	Silique 4	0.0	0.0	SRR3581711,SRR3581877,	To the Experiment
+1	Silique 6	0.0	0.0	SRR3581714,SRR3581880,	To the Experiment
+1	Young seeds 3	0.0	0.02	SRR3581721,SRR3581886,	To the Experiment
+1	Young seeds 2	0.0	0.0	SRR3581720,SRR3581885,	To the Experiment
+1	Young seeds 1	0.0	0.0	SRR3581719,SRR3581884,	To the Experiment
+1	Leaf Lamina of the mature leaf	0.0	0.01	SRR3581680,SRR3581846,	To the Experiment
+1	Flowers 15-18	0.0	0.0	SRR3581701,SRR3581867,	To the Experiment
+1	Young seeds 5	0.0	0.01	SRR3581726,SRR3581888,	To the Experiment
+1	Young seeds 4	0.0	0.02	SRR3581724,SRR3581887,	To the Experiment
+1	Seeds 7	0.0	0.0	SRR3581715,SRR3581881,	To the Experiment
+1	Germinating seeds 2	21.58	1.56	SRR3581733,SRR3581894,	To the Experiment
+1	Leaf Vein of the senescent leaf	0.05	0.0	SRR3581683,SRR3581849,	To the Experiment
+1	Carpel of the 6th and 7th flowers	0.0	0.0	SRR3581730,SRR3581891,	To the Experiment
+1	Ovules from the 6th and 7th flowers	0.0	0.0	SRR3581727,SRR3581889,	To the Experiment
+1	Flower 5	0.0	0.0	SRR3581697,SRR3581863,	To the Experiment
+1	Internode	0.07	0.04	SRR3581705,SRR3581871,	To the Experiment
+1	Leaf Petiole, intermediate 1	0.0	0.0	SRR3581499,SRR3581839,	To the Experiment
+1	Root Apex	18.97	0.34	SRR3581352,SRR3581835,	To the Experiment
+1	Leaf Petiole, intermediate 2	0.0	0.0	SRR3581639,SRR3581841,	To the Experiment
+1	Seeds from the senescent silique 1	0.0	0.01	SRR3581735,SRR3581896,	To the Experiment
+1	Flower 4	0.0	0.0	SRR3581696,SRR3581862,	To the Experiment
+1	Flower 1	0.0	0.0	SRR3581693,SRR3581859,	To the Experiment
+1	Leaf Vein, intermediate 2	0.0	0.0	SRR3581672,SRR3581842,	To the Experiment
+1	Flower 3	0.0	0.0	SRR3581695,SRR3581861,	To the Experiment
+1	Flower 2	0.0	0.0	SRR3581694,SRR3581860,	To the Experiment
+1	Flowers 9-11	0.0	0.0	SRR3581699,SRR3581865,	To the Experiment
+1	Leaf Vein of the mature leaf	0.0	0.0	SRR3581679,SRR3581845,	To the Experiment
+1	Leaf Petiole of the senescent leaf	0.14	0.05	SRR3581682,SRR3581848,	To the Experiment
+1	Leaf Petiole of the mature leaf	0.0	0.0	SRR3581678,SRR3581844,	To the Experiment
+1	Seedling Root	54.21	1.38	SRR3581347,SRR3581834,	To the Experiment
+1	Germinating seeds 3	65.28	1.63	SRR3581734,SRR3581895,	To the Experiment
+1	Carpels of the young flower	0.0	0.0	SRR3581690,SRR3581856,	To the Experiment
+1	Germinating seeds 1	0.0	0.0	SRR3581732,SRR3581893,	To the Experiment
+1	Pod of the silique 5	0.0	0.0	SRR3581713,SRR3581879,	To the Experiment
+1	Pod of the silique 7	0.0	0.03	SRR3581716,SRR3581882,	To the Experiment
+1	Pod of the silique 1	0.0	0.0	SRR3581707,SRR3581873,	To the Experiment
+1	Senescent internode	0.0	0.0	SRR3581738,SRR3581899,	To the Experiment
+1	Pod of the silique 3	0.0	0.0	SRR3581710,SRR3581876,	To the Experiment
+1	Seeds 1	0.0	0.01	SRR3581706,SRR3581872,	To the Experiment
+1	Seeds 3	0.0	0.0	SRR3581709,SRR3581875,	To the Experiment
+1	Seeds 5	0.0	0.0	SRR3581712,SRR3581878,	To the Experiment
+1	Leaf, mature	0.0	0.0	SRR3581681,SRR3581847,	To the Experiment
+1	Seedling Meristem	0.07	0.01	SRR3581346,SRR3581831,	To the Experiment
+1	Seedling Cotyledons	0.0	0.03	SRR3581345,SRR3581833,	To the Experiment
+1	Flowers 19 and following	0.0	0.0	SRR3581702,SRR3581868,	To the Experiment
+1	Seedling Hypocotyl	0.0	0.01	SRR3581336,SRR3581740,	To the Experiment
+1	Pedicel	0.0	0.0	SRR3581703,SRR3581869,	To the Experiment
+1	Leaf Lamina, intermediate 1	0.0	0.0	SRR3581591,SRR3581840,	To the Experiment
+1	Leaf Lamina, intermediate 2	0.0	0.0	SRR3581676,SRR3581843,	To the Experiment
+1	Axis of inflorescence	0.0	0.0	SRR3581704,SRR3581870,	To the Experiment
+1	Flowers 12-14	0.0	0.0	SRR3581700,SRR3581866,	To the Experiment
+1	Senescent silique 2	0.06	0.01	SRR3581737,SRR3581898,	To the Experiment
+1	Sepals of the young flower	0.0	0.0	SRR3581692,SRR3581858,	To the Experiment
+1	Root without apex	7.73	0.68	SRR3581356,SRR3581836,	To the Experiment
+1	Leaf Petiole of the young leaf	0.0	0.0	SRR3581383,SRR3581837,	To the Experiment
+1	Leaf Lamina of the young leaf	0.0	0.0	SRR3581388,SRR3581838,	To the Experiment
+1	Flowers 6-8	0.0	0.0	SRR3581698,SRR3581864,	To the Experiment
+1	Sepals of the mature flower	0.0	0.0	SRR3581689,SRR3581855,	To the Experiment
+1	Petals of the mature flower	0.0	0.0	SRR3581688,SRR3581854,	To the Experiment
+1	Stamen filaments of the mature flower	0.0	0.0	SRR3581687,SRR3581853,	To the Experiment
+1	Opened anthers	0.0	0.02	SRR3581684,SRR3581850,	To the Experiment
+1	Anthers of the mature flower (before opening)	0.0	0.03	SRR3581686,SRR3581852,	To the Experiment
+1	Carpels of the mature flower (before pollination)	0.0	0.01	SRR3581685,SRR3581851,	To the Experiment
