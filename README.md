@@ -1,4 +1,4 @@
-# variovoraxRGI hallepi
+# variovoraxRGI 
 Repository associated with the publication
 
 #### Root development is maintained by specific bacteria-bacteria interactions within a complex microbiome 
